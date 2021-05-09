@@ -1,0 +1,18 @@
+:host {
+    display: flex;
+    border: 1px solid #CCC;
+    justify-content: center;
+    align-content: center;
+    gap: 30px;
+    height: 64px;
+
+    button {
+        max-height: 40px;
+        margin: auto 0;
+        box-sizing: border-box;
+        line-height: 40px;
+        min-width: 108px;
+        border-radius: 20px;
+        cursor: pointer;
+    }
+}
