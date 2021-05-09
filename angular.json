@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "FlexChallenges"
+  "defaultProject": "FlexChallenges",
+  "cli": {
+    "analytics": false
+  }
 }
